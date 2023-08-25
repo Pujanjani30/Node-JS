@@ -1,0 +1,28 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "my first package.json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pujanjani30/Node-JS_Code-Step-by-Step.git"
+  },
+  "keywords": [
+    "Hello",
+    "Node",
+    "JS"
+  ],
+  "author": "Pujan Jani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pujanjani30/Node-JS_Code-Step-by-Step/issues"
+  },
+  "homepage": "https://github.com/Pujanjani30/Node-JS_Code-Step-by-Step#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
